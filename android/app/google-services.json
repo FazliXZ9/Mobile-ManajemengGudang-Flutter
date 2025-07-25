@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "362322316768",
+    "firebase_url": "https://barang-fe68f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "barang-fe68f",
+    "storage_bucket": "barang-fe68f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362322316768:android:d5b93e9a96b5c56cf32f85",
+        "android_client_info": {
+          "package_name": "com.example.app_mobile_barang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9pWg6gSrabS1F5q10DOo8u59j4BrmC6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362322316768:android:cdebfccdd2090599f32f85",
+        "android_client_info": {
+          "package_name": "com.example.mobile_barang"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9pWg6gSrabS1F5q10DOo8u59j4BrmC6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
